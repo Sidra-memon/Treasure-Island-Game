@@ -1,1 +1,2 @@
 # Treasure-Island-Game
+Treasure Island is a Python-based adventure game that challenges players to find hidden treasure on a mysterious island using a series of nested if-else statements. As players make choices, they navigate through different scenarios, each decision leading to new paths and outcomes. The game offers a blend of logic and strategy, where every choice matters to uncover the island's secrets.
